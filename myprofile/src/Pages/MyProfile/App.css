@@ -1,0 +1,11 @@
+.row-done {
+  background-color: green !important; 
+}
+
+.row-undone {
+  background-color: red !important; 
+}
+
+.row-pending {
+  background-color: yellow !important; 
+}
