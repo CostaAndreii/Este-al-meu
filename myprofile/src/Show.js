@@ -4,7 +4,6 @@ import His from './History';
 import MyP from "./Pages/MyProfile/MyProfile";
 import LogIn from "./Pages/Login/LogIn";
 import SignUp from "./Pages/SignUp/SignUp";
-import BCard from './AddLeave/Card';
 
 class App3 extends Component {
     render() {
