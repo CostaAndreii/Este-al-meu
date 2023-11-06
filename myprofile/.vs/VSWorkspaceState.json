@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src"
+    "\\src",
+    "\\src\\Pages\\Login",
+    "\\src\\Pages\\Login\\components",
+    "\\src\\Pages\\Login\\components\\AddLeave"
   ],
+  "SelectedNode": "\\package.json",
   "PreviewInSolutionExplorer": false
 }
